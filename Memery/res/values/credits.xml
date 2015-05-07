@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="credits">
+        <item>*by Joachim Thilo</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*</item>
+        <item>License</item>
+        <item>*</item>
+        <item>*This is a modified version of Memory by Pierre Levy. This program is free software:</item>
+        <item>*you can redistribute it and/or </item>
+        <item>*modify it under the terms of the </item>
+        <item>*GNU General Public License </item>
+        <item>*as published by the Free Software</item>
+        <item>*Foundation, either version 3 </item>
+        <item>*of the License, or (at your option)</item>
+        <item>*any later version.</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*Joachim Thilo</item>
+        <item>*</item>
+        <item>*</item>
+        <item>*Copyright (c) 2015 Joachim Thilo</item>
+    </array>
+</resources>
+
